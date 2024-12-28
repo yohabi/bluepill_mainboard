@@ -16,3 +16,8 @@ Adjustment potentiometer at PA0..PA3
 ```
 
 <img src="https://github.com/yohabi/bluepill_mainboard/blob/7f3fcd43033b5e18c05db25bef235dea30079730/assembled.jpg">
+
+Schematic:
+
+<img src="https://github.com/yohabi/bluepill_mainboard/blob/2c7d82b97488f62cfd0152e8399c4879f5fadeae/SCHEMATIC.png">
+
